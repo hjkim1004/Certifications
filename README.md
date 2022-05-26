@@ -1,2 +1,3 @@
-# Certifications
-👑 Certifications
+# 👑 Certifications
+## 1. SQLD
+
